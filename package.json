@@ -10,11 +10,11 @@
     "deploy": "gh-pages --dist dist --repo https://github.com/intredford/dnd"
   },
   "devDependencies": {
-    "@nuxt-themes/docus": "^1.12.1",
-    "@nuxt/content": "^2.8.2",
-    "@nuxthq/studio": "^0.14.0",
+    "@nuxt-themes/docus": "^1.15.0",
+    "@nuxt/content": "^2.10.0",
+    "@nuxthq/studio": "^0.14.1",
     "gh-pages": "^5.0.0",
-    "nuxt": "^3.7.1",
+    "nuxt": "^3.9.1",
     "sass": "^1.59.3"
   }
 }
